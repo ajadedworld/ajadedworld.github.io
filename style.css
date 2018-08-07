@@ -153,7 +153,7 @@ fieldset {
 }
 
 .grabbing {
-	cursor: url(../images/owl-carousel/grabbing.png) 8 8, move;
+	cursor: url(grabbing.png) 8 8, move;
 }
 
 .button {
