@@ -512,7 +512,7 @@ body.loaded #preloader{
 }
 
 .history p {
-	padding: 50px;
+	padding-top: 25px;
 	font-size: 15px;
 }
 
